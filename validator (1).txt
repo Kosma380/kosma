@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+
+ <title> Kosma Sirocki </title>
+</head>
+<body>
+<P> <b>Walidacja co to?:</b>
+<p> <b>walidacja danych to  sprawdzanie poprawności kodu:</b>
+<A  HREF="index.html"> wróć </A> 
+
+ </body>
+</html>
